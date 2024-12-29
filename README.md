@@ -30,7 +30,7 @@ To get started with the Vehicle Management CLI, follow these steps:
 1) Clone the repository:
     
     ```
-    git clone https://github.com/joshsdesk/Proj8BldACar.git
+    https://github.com/joshsdesk/Proj8BldACar.git
     ```
     
 2) Install inquirer:

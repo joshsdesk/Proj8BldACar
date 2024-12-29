@@ -71,10 +71,3 @@ Exit: Exit the CLI application.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Link to a demo
-
-
-
-
-

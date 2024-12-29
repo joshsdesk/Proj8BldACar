@@ -1,4 +1,4 @@
-# Vehicle Builder
+# Build-A-Car
 ## 08 TypeScript and OOP: Vehicle Builder
 A TypeScript command-line application that allows users to create and manage vehicles, including cars, motorbikes, and trucks. Users can choose to create a new vehicle or select an existing one. Once a vehicle is selected, the application provides various actions the user can perform with it. After completing an action, the user is returned to the actions menu, continuing until they choose to exit the application.
 

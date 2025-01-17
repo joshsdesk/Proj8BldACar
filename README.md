@@ -1,4 +1,4 @@
-# Build-A-Car
+# Vehicle Builder
 ## 08 TypeScript and OOP: Vehicle Builder
 A TypeScript command-line application that allows users to create and manage vehicles, including cars, motorbikes, and trucks. Users can choose to create a new vehicle or select an existing one. Once a vehicle is selected, the application provides various actions the user can perform with it. After completing an action, the user is returned to the actions menu, continuing until they choose to exit the application.
 
@@ -30,7 +30,7 @@ To get started with the Vehicle Management CLI, follow these steps:
 1) Clone the repository:
     
     ```
-    https://github.com/joshsdesk/Proj8BldACar.git
+    git clone https://github.com/joshsdesk/Proj8BldACar.git
     ```
     
 2) Install inquirer:
@@ -71,3 +71,10 @@ Exit: Exit the CLI application.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Link to a demo
+https://www.youtube.com/watch?v=X-Yj2ht86gU&ab_channel=JoshBourassa
+
+
+
+
